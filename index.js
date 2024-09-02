@@ -5,7 +5,7 @@ $(document).ready(function(){
     });
 
     // top sale owl carousel
-    $("#top-sale .owl-carousel").owlCarousel({
+    $("#top-sale .owl-carousel").owlCarousel({     
         loop: true,
         nav: true,
         dots: false,
