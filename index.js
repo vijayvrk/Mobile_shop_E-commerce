@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $("#banner-area .owl-carousel").owlCarousel({
         dots: true,
-        items: 1
+        items: 1 
     });
 
     // top sale owl carousel
