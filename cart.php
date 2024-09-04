@@ -2,7 +2,7 @@
 ob_start(); 
 include ('header.php'); 
 ?>
-
+ 
 <?php
 
     /*  include cart items if it is not empty */
